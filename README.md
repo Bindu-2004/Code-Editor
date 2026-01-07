@@ -84,7 +84,7 @@ ________________________________________
 
 Kongari Bindu
 
-B.Tech Computer Science & Engineering| final year Student
+Kongari Bindu Final Year B.Tech | Data Science Sphoorthy Engineering College
 
 Aspiring Web Developer 🚀
 ________________________________________
