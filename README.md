@@ -39,7 +39,7 @@ ________________________________________
 ▶️ How to Run the Project
 Method 1: Using Browser
 1.	Download or clone the repository:
-2.	git clone https://github.com/Bindu-2004/live-code-editor.git
+2.	git clone https://github.com/Bindu-2004/Code-Editor
 3.	Open index.html in any modern web browser.
 Method 2: Using Live Server (VS Code)
 1.	Open the project folder in VS Code
