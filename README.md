@@ -46,10 +46,6 @@ Method 2: Using Live Server (VS Code)
 2.	Install Live Server extension
 3.	Right-click index.html → Open with Live Server
 ________________________________________
-📸 Preview
-You can add screenshots here later for better presentation:
-/assets/preview.png
-________________________________________
 🎯 Learning Outcomes
 
 •	Understanding DOM manipulation
